@@ -21,6 +21,8 @@ h3 {
     font-size: 2em;
 }
 
+/* HEADER  */
+
 header {
     position: relative;
 }
@@ -106,6 +108,9 @@ header {
     height: 20px;
 }
 
+/* SECTION 1  */
+
+
 #section1 {
     height: 600px;
     background-color: rgba(232,217,217,.3);
@@ -142,6 +147,10 @@ header {
     padding: 15px 60px 15px;
 }
 
+
+/* SECTION 2  */
+
+
 #section2 {
     height: 600px;
     background-color: white;
@@ -166,6 +175,10 @@ header {
     width: 50%;
     font-size: 1.5em;
 }
+
+
+/* SECTION 3  */
+
 
 #section3 {
     background-color: white;
